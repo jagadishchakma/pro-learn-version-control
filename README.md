@@ -29,6 +29,7 @@ function myFunc(){
 - item 2
 - item 3
 ## Emojy Add   
+:smile: :heart: :rocket:
 
 
 ## Link text
