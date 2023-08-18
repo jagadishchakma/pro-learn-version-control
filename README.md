@@ -32,7 +32,7 @@ function myFunc(){
 :smile: :heart: :rocket:
 ## Table add   
 | Name | Email |
-| ..... | ..... |
+|------|--------|
 | jagadish | jagadishchakma401@gmail.com |
 
 ## Link text
