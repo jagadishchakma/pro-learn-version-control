@@ -1,0 +1,2 @@
+#professionally learning version control
+#strong fundamentals with project based git
