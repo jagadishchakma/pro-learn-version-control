@@ -33,4 +33,4 @@ function myFunc(){
 [chat gpt](https://chat.openai.com/)
 
 ## Image link
-![maduri dixit](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Madhuri_Dixit_in_November_2022.jpg/800px-Madhuri_Dixit_in_November_2022.jpg)
+![maduri dixit]([https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Madhuri_Dixit_in_November_2022.jpg/800px-Madhuri_Dixit_in_November_2022.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dalailama1_20121014_4639.jpg/800px-Dalailama1_20121014_4639.jpg)https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dalailama1_20121014_4639.jpg/800px-Dalailama1_20121014_4639.jpg)
