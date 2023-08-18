@@ -28,6 +28,8 @@ function myFunc(){
     - item 1.2
 - item 2
 - item 3
+## Emojy Add   
+:smile: :heart: :rocket:
 
 ## Link text
 [chat gpt](https://chat.openai.com/)
