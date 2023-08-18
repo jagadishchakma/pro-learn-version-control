@@ -30,7 +30,10 @@ function myFunc(){
 - item 3
 ## Emojy Add   
 :smile: :heart: :rocket:
-
+## Table add   
+| Name | Email |
+| ..... | ..... |
+| jagadish | jagadishchakma401@gmail.com |
 
 ## Link text
 [chat gpt](https://chat.openai.com/)
